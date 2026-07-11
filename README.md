@@ -1,5 +1,8 @@
 # Monis Rent Bali - Interactive Workspace Designer
 
+<img width="1600" height="804" alt="image" src="https://github.com/user-attachments/assets/62868baf-4155-4b5b-ad96-cf555c02b34a" />
+
+
 A modern, highly interactive, and visually immersive workspace configurator built for digital nomads and startups moving to Bali. Designed to showcase a premium, tactile, and gamified experience where users can live-preview their custom desks, chairs, accessories, and hobby zones before renting them.
 
 ## 🌴 Deployed Application
@@ -64,7 +67,4 @@ To deploy:
 ### Approach
 I took a developer-designer perspective. Instead of listing boring dropdown tables or embedding heavy 3D files that lag on mobile devices, I built a fast, lightweight 2.5D visual preview layered using optimized HTML/CSS/SVG groups. This guarantees 60fps animations even on mobile devices. Adding the procedural lofi ambient soundtrack replicates the authentic Bali digital nomad lifestyle, keeping users engaged longer.
 
-### With more time, I would:
-1. **Interactive Drag & Drop**: Enable drag-and-drop mechanics to let users arrange accessories anywhere on the desk surface.
-2. **3D Three.js Configurator**: Optional toggle for a full 3D interactive room canvas using Three.js/React Three Fiber with pre-baked GLTF furniture assets.
-3. **Real-time Availability check**: Connect to a backend inventory system (e.g. Supabase/PostgreSQL) to check physical warehouse counts in Bali (Canggu vs Ubud warehouse).
+
