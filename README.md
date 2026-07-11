@@ -7,7 +7,7 @@ A modern, highly interactive, and visually immersive workspace configurator buil
 
 ## 🌴 Deployed Application
 
-- **Live URL**: *(Deployable immediately via Vercel - see instructions below)*
+- **Live URL**: https://monis-rent-try-on.vercel.app/
 
 ---
 
