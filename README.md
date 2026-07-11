@@ -5,6 +5,14 @@
 
 A modern, highly interactive, and visually immersive workspace configurator built for digital nomads and startups moving to Bali. Designed to showcase a premium, tactile, and gamified experience where users can live-preview their custom desks, chairs, accessories, and hobby zones before renting them.
 
+### Approach
+I took a developer-designer perspective. Instead of listing boring dropdown tables or embedding heavy 3D files that lag on devices, I built a fast, lightweight 2.5D visual preview layered using optimized HTML/CSS/SVG groups. This guarantees 60fps animations even on mobile devices. Adding the procedural lofi ambient soundtrack replicates the authentic Bali digital nomad lifestyle, keeping users engaged longer.
+
+### future changes
+- first i would improve the interaction with the objects , like better rotation around its axis and selection of objects.
+- currently object size can only be increased upto a certain level , i would like to maximise till the scree size.
+-  also i want to add up all the listed products on monis.rent and would make each object customizable in the window
+
 ## 🌴 Deployed Application
 
 - **Live URL**: https://monis-rent-try-on.vercel.app/
@@ -31,40 +39,6 @@ A modern, highly interactive, and visually immersive workspace configurator buil
 
 ---
 
-## 📦 How to Run Locally
 
-1. Clone this repository:
-   ```bash
-   git clone <your-repo-url>
-   cd rent-vinit
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Run the development server:
-   ```bash
-   npm run dev
-   ```
-   Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
----
-
-## 🚀 Deployed on Vercel
-
-The project is optimized for deployment on Vercel. 
-To deploy:
-1. Push this folder to a GitHub repository.
-2. Go to [Vercel](https://vercel.com) -> Add New Project -> Import your repo.
-3. Keep default settings and click **Deploy**.
-
----
-
-## 💭 Approach & Future Improvements
-
-### Approach
-I took a developer-designer perspective. Instead of listing boring dropdown tables or embedding heavy 3D files that lag on mobile devices, I built a fast, lightweight 2.5D visual preview layered using optimized HTML/CSS/SVG groups. This guarantees 60fps animations even on mobile devices. Adding the procedural lofi ambient soundtrack replicates the authentic Bali digital nomad lifestyle, keeping users engaged longer.
 
 
